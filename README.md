@@ -1,11 +1,19 @@
-# Qu-te-PowerShell1
-commandes Linux (shell bash)  / commande PowerSell
-                                                   
-cp                              Copy-Item
-rm                              Remove-Item
-cd                              Set-Location chemin_du_repertoire
-mkdir                           New-Item -ItemType Directory -Name nom_du_repertoire
-man                             Get-Help commande
-history                         Get-History
-alias                           Set-Alias alias_nom commande 
-cat                             Get-Content fichier
+ Les commandes Linux (shell bash) suivantes :
+cp
+rm
+cd
+mkdir
+man
+history
+alias
+cat
+  Les commandes PowerShell
+Copy-Item
+Remove-Item file.txt
+Set-Location chemin_du_repertoire
+New-Item -ItemType Directory -Name nom_du_repertoire
+Get-Help 
+Get-History
+Set-Alias alias_nom commande
+Get-Content fichier
+
